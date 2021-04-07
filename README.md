@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mry-ui
-- 👀 I’m interested in web development and graphic design
-- 🌱 I’m currently learning web systems and fundamentals
+- 👀 I’m interested in...
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me
 
